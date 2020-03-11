@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://faug.site</id>
     <title>FAUG</title>
-    <updated>2020-03-11T15:05:46.979Z</updated>
+    <updated>2020-03-11T15:12:28.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://faug.site"/>
     <link rel="self" href="https://faug.site/atom.xml"/>
